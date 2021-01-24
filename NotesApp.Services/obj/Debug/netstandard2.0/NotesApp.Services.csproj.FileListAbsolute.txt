@@ -1,0 +1,9 @@
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\bin\Debug\netstandard2.0\NotesApp.Services.deps.json
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\bin\Debug\netstandard2.0\NotesApp.Services.dll
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\bin\Debug\netstandard2.0\NotesApp.Services.pdb
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\obj\Debug\netstandard2.0\NotesApp.Services.csprojAssemblyReference.cache
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\obj\Debug\netstandard2.0\NotesApp.Services.AssemblyInfoInputs.cache
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\obj\Debug\netstandard2.0\NotesApp.Services.AssemblyInfo.cs
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\obj\Debug\netstandard2.0\NotesApp.Services.csproj.CoreCompileInputs.cache
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\obj\Debug\netstandard2.0\NotesApp.Services.dll
+D:\Programming\pm\homeworks\hw-5\app\NotesApp\NotesApp.Services\obj\Debug\netstandard2.0\NotesApp.Services.pdb
