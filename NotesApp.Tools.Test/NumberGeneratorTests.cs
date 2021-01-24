@@ -6,7 +6,7 @@ namespace NotesApp.Tools.Test
     public class NumberGeneratorTests
     {
         [Fact]
-        public void GeneratePositiveLong_Should_Fail_If_Value_Invalid()
+        public void GeneratePositiveLong_Should_Fail_If_Argument_Invalid()
         {
             Assert.Throws<ArgumentOutOfRangeException>(() => NumberGenerator.GeneratePositiveLong(-4));
             Assert.Throws<ArgumentOutOfRangeException>(() => NumberGenerator.GeneratePositiveLong(0));
